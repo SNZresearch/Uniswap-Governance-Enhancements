@@ -1,6 +1,6 @@
 ## 1. UNI Can be used as Initial Uniswap Offering（IUO）token
 
-Uni being a IUO token not means  
+  
 
 ### 1.1 necessity
 
