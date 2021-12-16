@@ -1,5 +1,9 @@
 # Other Research of Uniswap v3
 
+We have doing a lot of research and sharing on Uniswap V3 in Chinese Community. And maroon come from Dapp-learning
+
+Dapp-Learing Project is suitable for developers with certain programming language foundation to start blockchain Dapp development. It allows developers to understand and develop various projects like Defi, NFT, DAO and CRYPTO from a lower level to the higher level step by step.  
+
 dynamtic graph demo of Uniswap V3:
 ![understanding-04-reserveschange.webp](understanding-04-reserveschange.webp)
 
